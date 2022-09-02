@@ -1,1 +1,1 @@
-print(f"Answer: {eval(input('Expression: '))}")
+print(eval(input()))

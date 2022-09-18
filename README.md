@@ -1,2 +1,2 @@
 # calculator
-The simplest calculator in 1 line ;)
+The simplest "calculator" in 1 line ;)
